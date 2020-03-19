@@ -114,3 +114,13 @@ a:visited {
     margin-left: auto;
   }
 }
+
+@media(max-width: 1024px) {
+  .projects img{
+    width: auto;
+  }
+  .keywords img {
+    width: auto;
+    margin-left: auto;
+  }
+}
