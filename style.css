@@ -70,6 +70,7 @@ a:visited {
   grid-gap: 30px;
   background: #f1f1f1;
   margin-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .project p {
