@@ -69,8 +69,9 @@ a:visited {
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 30px;
   background: #f1f1f1;
-  margin-bottom: 30px;
+  margin-bottom: -10px;
   padding-bottom: 20px;
+  padding-left: 10px;
 }
 
 .project p {
