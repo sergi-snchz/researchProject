@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background: #f1f1f1;
+  /* background: #f1f1f1; */
 
 }
 
@@ -27,7 +27,7 @@ h1 {
   grid-gap: 30px;
   background: #f1f1f1;
   margin-bottom: 0px;
-  height: 50vh;
+  height: 45vh;
 }
 
 .projects img {
